@@ -1,9 +1,9 @@
 {
-  "lastSyncAt": "2026-08-24T06:02:18.438Z",
-  "lastNewsSyncAt": "2026-08-24T06:02:18.438Z",
+  "lastSyncAt": "2026-08-25T05:57:11.781Z",
+  "lastNewsSyncAt": "2026-08-25T05:57:11.781Z",
   "lastSyncOk": true,
   "lastError": null,
-  "durationMs": 23093,
+  "durationMs": 25387,
   "sources": {
     "govuk-register": {
       "ok": true,
@@ -19,28 +19,20 @@
     },
     "remotive": {
       "ok": true,
-      "count": 3
-    },
-    "jobicy": {
-      "ok": true,
-      "count": 100
+      "count": 2
     },
     "himalayas": {
       "ok": true,
-      "count": 6
-    },
-    "remoteok": {
-      "ok": true,
-      "count": 0
+      "count": 8
     },
     "landingjobs": {
       "ok": false,
       "count": 0,
       "error": "403 Forbidden for https://landing.jobs/api/v1/jobs?limit=150"
     },
-    "weworkremotely": {
+    "remoteok": {
       "ok": true,
-      "count": 108
+      "count": 0
     },
     "workingnomads": {
       "ok": true,
@@ -48,29 +40,37 @@
     },
     "visa-news": {
       "ok": true,
-      "count": 14
+      "count": 27
+    },
+    "jobicy": {
+      "ok": true,
+      "count": 100
+    },
+    "weworkremotely": {
+      "ok": true,
+      "count": 110
     },
     "ats-boards": {
       "ok": true,
-      "count": 781
+      "count": 777
     },
     "teaching-vacancies": {
       "ok": true,
-      "count": 833
-    },
-    "themuse": {
-      "ok": true,
-      "count": 162
+      "count": 828
     },
     "arbeitnow": {
       "ok": true,
-      "count": 1203
+      "count": 1188
+    },
+    "themuse": {
+      "ok": true,
+      "count": 163
     }
   },
-  "sponsorCount": 121720,
-  "jobCount": 1189,
-  "confirmedCount": 33,
-  "newsCount": 14,
-  "registerUpdatedAt": "2026-08-21T09:39:29+01:00",
-  "registerFilename": "SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-08-21.csv"
+  "sponsorCount": 121790,
+  "jobCount": 1205,
+  "confirmedCount": 28,
+  "newsCount": 27,
+  "registerUpdatedAt": "2026-08-24T11:36:48+01:00",
+  "registerFilename": "SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-08-24.csv"
 }
