@@ -1,5 +1,15 @@
 [
   {
+    "id": "govuk-2026-09-01-multi-factor-authentication-for-uk-visa-sponsors-sms-manual-13",
+    "title": "Multi-factor authentication for UK visa sponsors: SMS manual 13",
+    "summary": "Step-by-step guide to using multi-factor authentication (MFA) when logging into the sponsorship management system (SMS).",
+    "url": "https://www.gov.uk/government/publications/multi-factor-authentication-for-uk-visa-sponsors-sms-manual-13",
+    "source": "govuk",
+    "sourceName": "GOV.UK",
+    "publishedAt": "2026-09-01T12:49:57Z",
+    "kind": "official"
+  },
+  {
     "id": "bbc-2026-08-28-track-uk-s-latest-migration-numbers-net-migration-visas-asylum-an",
     "title": "Track UK's latest migration numbers - net migration, visas, asylum and small boats",
     "summary": "Use our interactive tracker to explore the latest migration statistics for the UK",
