@@ -1,9 +1,9 @@
 {
-  "lastSyncAt": "2026-09-02T09:47:35.918Z",
-  "lastNewsSyncAt": "2026-09-02T09:47:35.918Z",
+  "lastSyncAt": "2026-09-03T09:59:43.088Z",
+  "lastNewsSyncAt": "2026-09-03T09:59:43.088Z",
   "lastSyncOk": true,
   "lastError": null,
-  "durationMs": 23180,
+  "durationMs": 24932,
   "sources": {
     "govuk-register": {
       "ok": true,
@@ -20,7 +20,7 @@
     "arbeitnow": {
       "ok": false,
       "count": 0,
-      "error": "403 Forbidden for https://www.arbeitnow.co.uk/api/job-board-api?visa_sponsorship=true"
+      "error": "403 Forbidden for https://www.arbeitnow.co.uk/api/job-board-api"
     },
     "remotive": {
       "ok": true,
@@ -28,7 +28,7 @@
     },
     "himalayas": {
       "ok": true,
-      "count": 5
+      "count": 7
     },
     "landingjobs": {
       "ok": false,
@@ -39,39 +39,39 @@
       "ok": true,
       "count": 3
     },
+    "weworkremotely": {
+      "ok": true,
+      "count": 110
+    },
     "workingnomads": {
       "ok": true,
       "count": 3
-    },
-    "weworkremotely": {
-      "ok": true,
-      "count": 109
-    },
-    "visa-news": {
-      "ok": true,
-      "count": 26
     },
     "jobicy": {
       "ok": true,
       "count": 100
     },
-    "ats-boards": {
+    "visa-news": {
       "ok": true,
-      "count": 746
+      "count": 25
     },
     "teaching-vacancies": {
       "ok": true,
-      "count": 893
+      "count": 894
+    },
+    "ats-boards": {
+      "ok": true,
+      "count": 752
     },
     "themuse": {
       "ok": true,
-      "count": 165
+      "count": 164
     }
   },
   "sponsorCount": 121924,
-  "jobCount": 818,
+  "jobCount": 819,
   "confirmedCount": 1,
-  "newsCount": 26,
-  "registerUpdatedAt": "2026-09-02T10:45:56+01:00",
-  "registerFilename": "SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-09-02.csv"
+  "newsCount": 25,
+  "registerUpdatedAt": "2026-09-03T10:01:22+01:00",
+  "registerFilename": "SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-09-03.csv"
 }

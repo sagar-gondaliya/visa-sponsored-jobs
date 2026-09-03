@@ -1,5 +1,15 @@
 [
   {
+    "id": "bbc-2026-09-02-track-uk-s-latest-migration-numbers-net-migration-visas-asylum-an",
+    "title": "Track UK's latest migration numbers - net migration, visas, asylum and small boats",
+    "summary": "Use our interactive tracker to explore the latest migration statistics for the UK",
+    "url": "https://www.bbc.co.uk/news/articles/c70989jrdweo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "sourceName": "BBC News",
+    "publishedAt": "2026-09-02T15:57:16.000Z",
+    "kind": "news"
+  },
+  {
     "id": "govuk-2026-09-01-multi-factor-authentication-for-uk-visa-sponsors-sms-manual-13",
     "title": "Multi-factor authentication for UK visa sponsors: SMS manual 13",
     "summary": "Step-by-step guide to using multi-factor authentication (MFA) when logging into the sponsorship management system (SMS).",
@@ -8,16 +18,6 @@
     "sourceName": "GOV.UK",
     "publishedAt": "2026-09-01T12:49:57Z",
     "kind": "official"
-  },
-  {
-    "id": "bbc-2026-08-28-track-uk-s-latest-migration-numbers-net-migration-visas-asylum-an",
-    "title": "Track UK's latest migration numbers - net migration, visas, asylum and small boats",
-    "summary": "Use our interactive tracker to explore the latest migration statistics for the UK",
-    "url": "https://www.bbc.co.uk/news/articles/c70989jrdweo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "sourceName": "BBC News",
-    "publishedAt": "2026-08-28T14:18:56.000Z",
-    "kind": "news"
   },
   {
     "id": "guardian-2026-08-24-woman-stranded-in-spain-after-uk-s-evisa-system-mistakes-her",
@@ -38,16 +38,6 @@
     "sourceName": "GOV.UK",
     "publishedAt": "2026-08-13T08:30:10Z",
     "kind": "official"
-  },
-  {
-    "id": "bbc-2026-08-06-car-washes-and-vape-shops-can-still-sponsor-skilled-foreign-worke",
-    "title": "Car washes and vape shops can still sponsor skilled foreign workers despite visa changes",
-    "summary": "The rules were tightened in July 2025 to restrict the scheme mostly to graduate-level employees who would be earning at least £41,700.",
-    "url": "https://www.bbc.co.uk/news/articles/cj639rx147eo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "sourceName": "BBC News",
-    "publishedAt": "2026-08-06T11:06:26.000Z",
-    "kind": "news"
   },
   {
     "id": "govuk-2026-08-06-bloomsbury-institute-s-student-sponsor-licence-revoked",
