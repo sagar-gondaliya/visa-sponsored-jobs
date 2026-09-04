@@ -1,5 +1,35 @@
 [
   {
+    "id": "govuk-2026-09-03-statement-of-changes-to-the-immigration-rules-hc-584-3-septembe",
+    "title": "Statement of changes to the Immigration Rules: HC 584, 3 September 2026",
+    "summary": "Statement of changes to the Immigration Rules published on 3 September 2026.",
+    "url": "https://www.gov.uk/government/publications/statement-of-changes-to-the-immigration-rules-hc-584-3-september-2026",
+    "source": "govuk",
+    "sourceName": "GOV.UK",
+    "publishedAt": "2026-09-03T12:20:22Z",
+    "kind": "official"
+  },
+  {
+    "id": "govuk-2026-09-03-immigration-rules-statement-of-changes",
+    "title": "Immigration Rules: statement of changes",
+    "summary": "Statement of changes in Immigration Rules: 1994 to 2026.",
+    "url": "https://www.gov.uk/government/collections/immigration-rules-statement-of-changes",
+    "source": "govuk",
+    "sourceName": "GOV.UK",
+    "publishedAt": "2026-09-03T12:20:17Z",
+    "kind": "official"
+  },
+  {
+    "id": "guardian-2026-09-03-care-workers-and-others-fleeing-uk-modern-slavery-win-visa-r",
+    "title": "Care workers and others fleeing UK modern slavery win visa reprieve",
+    "summary": "Exclusive: Home Office concedes skilled workers abused by sponsors can change employer and complete visa term • UK politics live – latest updates Care workers, chefs and others in danger of losing their migration status under post-Brexit rules if they leave an exploitative…",
+    "url": "https://www.theguardian.com/world/2026/sep/03/care-workers-fleeing-uk-modern-slavery-win-visa-reprieve",
+    "source": "guardian",
+    "sourceName": "The Guardian",
+    "publishedAt": "2026-09-03T11:19:19.000Z",
+    "kind": "news"
+  },
+  {
     "id": "bbc-2026-09-02-track-uk-s-latest-migration-numbers-net-migration-visas-asylum-an",
     "title": "Track UK's latest migration numbers - net migration, visas, asylum and small boats",
     "summary": "Use our interactive tracker to explore the latest migration statistics for the UK",
@@ -90,16 +120,6 @@
     "kind": "official"
   },
   {
-    "id": "govuk-2026-07-09-immigration-rules-statement-of-changes",
-    "title": "Immigration Rules: statement of changes",
-    "summary": "Statement of changes in Immigration Rules: 1994 to 2026.",
-    "url": "https://www.gov.uk/government/collections/immigration-rules-statement-of-changes",
-    "source": "govuk",
-    "sourceName": "GOV.UK",
-    "publishedAt": "2026-07-09T09:57:17Z",
-    "kind": "official"
-  },
-  {
     "id": "govuk-2026-07-09-statement-of-changes-to-the-immigration-rules-hc-259-9-july-202",
     "title": "Statement of changes to the Immigration Rules: HC 259, 9 July 2026",
     "summary": "Statement of changes to the Immigration Rules published on 9 July 2026.",
@@ -127,16 +147,6 @@
     "source": "govuk",
     "sourceName": "GOV.UK",
     "publishedAt": "2026-06-04T10:45:00Z",
-    "kind": "official"
-  },
-  {
-    "id": "govuk-2026-03-06-statement-of-changes-to-the-immigration-rules-hc-1691-5-march-2",
-    "title": "Statement of changes to the Immigration Rules: HC 1691, 5 March 2026",
-    "summary": "Statement of changes to the Immigration Rules published on 5 March 2026.",
-    "url": "https://www.gov.uk/government/publications/statement-of-changes-to-the-immigration-rules-hc-1619-5-march-2026",
-    "source": "govuk",
-    "sourceName": "GOV.UK",
-    "publishedAt": "2026-03-06T09:43:00Z",
     "kind": "official"
   },
   {
