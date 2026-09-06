@@ -1,9 +1,9 @@
 {
-  "lastSyncAt": "2026-09-05T09:12:16.929Z",
-  "lastNewsSyncAt": "2026-09-05T09:12:16.929Z",
+  "lastSyncAt": "2026-09-06T09:34:32.605Z",
+  "lastNewsSyncAt": "2026-09-06T09:34:32.605Z",
   "lastSyncOk": true,
   "lastError": null,
-  "durationMs": 14346,
+  "durationMs": 12899,
   "sources": {
     "govuk-register": {
       "ok": true,
@@ -20,58 +20,58 @@
     "arbeitnow": {
       "ok": false,
       "count": 0,
-      "error": "403 Forbidden for https://www.arbeitnow.co.uk/api/job-board-api"
+      "error": "403 Forbidden for https://www.arbeitnow.co.uk/api/job-board-api?visa_sponsorship=true"
+    },
+    "remotive": {
+      "ok": true,
+      "count": 1
+    },
+    "himalayas": {
+      "ok": true,
+      "count": 8
+    },
+    "remoteok": {
+      "ok": true,
+      "count": 5
     },
     "landingjobs": {
       "ok": false,
       "count": 0,
       "error": "403 Forbidden for https://landing.jobs/api/v1/jobs?limit=150"
     },
-    "himalayas": {
-      "ok": true,
-      "count": 8
-    },
-    "remotive": {
-      "ok": true,
-      "count": 2
-    },
-    "jobicy": {
-      "ok": true,
-      "count": 100
-    },
-    "remoteok": {
-      "ok": true,
-      "count": 5
-    },
     "workingnomads": {
       "ok": true,
-      "count": 3
+      "count": 4
     },
     "weworkremotely": {
       "ok": true,
       "count": 110
     },
+    "jobicy": {
+      "ok": true,
+      "count": 100
+    },
     "visa-news": {
       "ok": true,
-      "count": 25
+      "count": 26
     },
     "ats-boards": {
       "ok": true,
-      "count": 767
+      "count": 765
     },
     "teaching-vacancies": {
       "ok": true,
-      "count": 661
+      "count": 672
     },
     "themuse": {
       "ok": true,
-      "count": 163
+      "count": 164
     }
   },
   "sponsorCount": 121929,
-  "jobCount": 832,
+  "jobCount": 836,
   "confirmedCount": 2,
-  "newsCount": 25,
+  "newsCount": 26,
   "registerUpdatedAt": "2026-09-04T10:10:16+01:00",
   "registerFilename": "SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-09-04.csv"
 }
