@@ -1,5 +1,15 @@
 [
   {
+    "id": "bbc-2026-09-07-track-uk-s-latest-migration-numbers-net-migration-visas-asylum-an",
+    "title": "Track UK's latest migration numbers - net migration, visas, asylum and small boats",
+    "summary": "Use our interactive tracker to explore the latest migration statistics for the UK",
+    "url": "https://www.bbc.co.uk/news/articles/c70989jrdweo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "sourceName": "BBC News",
+    "publishedAt": "2026-09-07T08:42:14.000Z",
+    "kind": "news"
+  },
+  {
     "id": "guardian-2026-09-05-gaza-refugee-says-sister-in-law-would-be-alive-if-home-offic",
     "title": "Gaza refugee says sister-in-law ‘would be alive’ if Home Office had let her come to UK",
     "summary": "Anwar, who lives in Glasgow, says Home Office refused visa application despite Maryam having cancer A man living in the UK has said he believes his sister-in-law who died from cancer in Gaza would still be alive today if the Home Office had agreed to bring her and her family to…",
@@ -40,16 +50,6 @@
     "kind": "news"
   },
   {
-    "id": "bbc-2026-09-02-track-uk-s-latest-migration-numbers-net-migration-visas-asylum-an",
-    "title": "Track UK's latest migration numbers - net migration, visas, asylum and small boats",
-    "summary": "Use our interactive tracker to explore the latest migration statistics for the UK",
-    "url": "https://www.bbc.co.uk/news/articles/c70989jrdweo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "sourceName": "BBC News",
-    "publishedAt": "2026-09-02T15:57:16.000Z",
-    "kind": "news"
-  },
-  {
     "id": "govuk-2026-09-01-multi-factor-authentication-for-uk-visa-sponsors-sms-manual-13",
     "title": "Multi-factor authentication for UK visa sponsors: SMS manual 13",
     "summary": "Step-by-step guide to using multi-factor authentication (MFA) when logging into the sponsorship management system (SMS).",
@@ -58,16 +58,6 @@
     "sourceName": "GOV.UK",
     "publishedAt": "2026-09-01T12:49:57Z",
     "kind": "official"
-  },
-  {
-    "id": "guardian-2026-08-24-woman-stranded-in-spain-after-uk-s-evisa-system-mistakes-her",
-    "title": "Woman stranded in Spain after UK’s eVisa system mistakes her for twin sister",
-    "summary": "Nidia Webb, who is legally settled in UK, falls foul of ‘known issue’ with Home Office’s digitised immigration process A woman who is legally settled in the UK was left stranded at a Spanish airport after the Home Office’s post-Brexit visa system mixed her up with her twin…",
-    "url": "https://www.theguardian.com/uk-news/2026/aug/24/woman-stranded-spain-uk-evisa-system-mistakes-twin-sister",
-    "source": "guardian",
-    "sourceName": "The Guardian",
-    "publishedAt": "2026-08-24T07:57:15.000Z",
-    "kind": "news"
   },
   {
     "id": "govuk-2026-08-13-monthly-entry-clearance-visa-applications-july-2026",
