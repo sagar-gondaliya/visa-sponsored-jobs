@@ -6,8 +6,18 @@
     "url": "https://www.bbc.co.uk/news/articles/c70989jrdweo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "sourceName": "BBC News",
-    "publishedAt": "2026-09-07T08:42:14.000Z",
+    "publishedAt": "2026-09-07T15:47:02.000Z",
     "kind": "news"
+  },
+  {
+    "id": "govuk-2026-09-07-multi-factor-authentication-for-uk-visa-sponsors-sms-manual-13",
+    "title": "Multi-factor authentication for UK visa sponsors: SMS manual 13",
+    "summary": "Step-by-step guide to using multi-factor authentication (MFA) when logging into the sponsorship management system (SMS).",
+    "url": "https://www.gov.uk/government/publications/multi-factor-authentication-for-uk-visa-sponsors-sms-manual-13",
+    "source": "govuk",
+    "sourceName": "GOV.UK",
+    "publishedAt": "2026-09-07T13:03:02Z",
+    "kind": "official"
   },
   {
     "id": "guardian-2026-09-05-gaza-refugee-says-sister-in-law-would-be-alive-if-home-offic",
@@ -37,26 +47,6 @@
     "source": "govuk",
     "sourceName": "GOV.UK",
     "publishedAt": "2026-09-03T12:20:17Z",
-    "kind": "official"
-  },
-  {
-    "id": "guardian-2026-09-03-care-workers-and-others-fleeing-uk-modern-slavery-win-visa-r",
-    "title": "Care workers and others fleeing UK modern slavery win visa reprieve",
-    "summary": "Exclusive: Home Office concedes skilled workers abused by sponsors can change employer and complete visa term • UK politics live – latest updates Care workers, chefs and others in danger of losing their migration status under post-Brexit rules if they leave an exploitative…",
-    "url": "https://www.theguardian.com/world/2026/sep/03/care-workers-fleeing-uk-modern-slavery-win-visa-reprieve",
-    "source": "guardian",
-    "sourceName": "The Guardian",
-    "publishedAt": "2026-09-03T11:19:19.000Z",
-    "kind": "news"
-  },
-  {
-    "id": "govuk-2026-09-01-multi-factor-authentication-for-uk-visa-sponsors-sms-manual-13",
-    "title": "Multi-factor authentication for UK visa sponsors: SMS manual 13",
-    "summary": "Step-by-step guide to using multi-factor authentication (MFA) when logging into the sponsorship management system (SMS).",
-    "url": "https://www.gov.uk/government/publications/multi-factor-authentication-for-uk-visa-sponsors-sms-manual-13",
-    "source": "govuk",
-    "sourceName": "GOV.UK",
-    "publishedAt": "2026-09-01T12:49:57Z",
     "kind": "official"
   },
   {
