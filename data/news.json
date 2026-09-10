@@ -1,5 +1,25 @@
 [
   {
+    "id": "govuk-2026-09-10-monthly-entry-clearance-visa-applications-august-2026",
+    "title": "Monthly entry clearance visa applications: August 2026",
+    "summary": "Statistics on visa applications for people coming to the UK for work, study and family reasons.",
+    "url": "https://www.gov.uk/government/statistics/monthly-entry-clearance-visa-applications-august-2026",
+    "source": "govuk",
+    "sourceName": "GOV.UK",
+    "publishedAt": "2026-09-10T08:30:07Z",
+    "kind": "official"
+  },
+  {
+    "id": "guardian-2026-09-10-fundamentally-unfair-burnham-must-overhaul-migration-reforms",
+    "title": "‘Fundamentally unfair’: Burnham must overhaul migration reforms, says TUC general secretary",
+    "summary": "Paul Nowak says changes to immigration rules risk overstretching social care and fuelling far-right sentiment Andy Burnham must overhaul Shabana Mahmood’s migration reforms or risk overstretching social care and fuelling far-right sentiment, the TUC general secretary, Paul…",
+    "url": "https://www.theguardian.com/politics/2026/sep/10/fundamentally-unfair-burnham-must-overhaul-migration-reforms-says-tuc-general-secretary",
+    "source": "guardian",
+    "sourceName": "The Guardian",
+    "publishedAt": "2026-09-10T05:00:16.000Z",
+    "kind": "news"
+  },
+  {
     "id": "bbc-2026-09-08-track-uk-s-latest-migration-numbers-net-migration-visas-asylum-an",
     "title": "Track UK's latest migration numbers - net migration, visas, asylum and small boats",
     "summary": "Use our interactive tracker to explore the latest migration statistics for the UK",
@@ -18,16 +38,6 @@
     "sourceName": "GOV.UK",
     "publishedAt": "2026-09-07T13:03:02Z",
     "kind": "official"
-  },
-  {
-    "id": "guardian-2026-09-05-gaza-refugee-says-sister-in-law-would-be-alive-if-home-offic",
-    "title": "Gaza refugee says sister-in-law ‘would be alive’ if Home Office had let her come to UK",
-    "summary": "Anwar, who lives in Glasgow, says Home Office refused visa application despite Maryam having cancer A man living in the UK has said he believes his sister-in-law who died from cancer in Gaza would still be alive today if the Home Office had agreed to bring her and her family to…",
-    "url": "https://www.theguardian.com/uk-news/2026/sep/05/gaza-refugee-visa-refusal-home-office",
-    "source": "guardian",
-    "sourceName": "The Guardian",
-    "publishedAt": "2026-09-05T10:00:33.000Z",
-    "kind": "news"
   },
   {
     "id": "govuk-2026-09-03-statement-of-changes-to-the-immigration-rules-hc-584-3-septembe",
@@ -56,7 +66,7 @@
     "url": "https://www.gov.uk/government/statistics/monthly-entry-clearance-visa-applications-july-2026",
     "source": "govuk",
     "sourceName": "GOV.UK",
-    "publishedAt": "2026-08-13T08:30:10Z",
+    "publishedAt": "2026-08-13T08:30:00Z",
     "kind": "official"
   },
   {
