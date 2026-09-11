@@ -1,5 +1,15 @@
 [
   {
+    "id": "govuk-2026-09-10-uk-visa-fees",
+    "title": "UK visa fees",
+    "summary": "Immigration and nationality fees for all applications made from outside and within the UK.",
+    "url": "https://www.gov.uk/government/publications/visa-regulations-revised-table",
+    "source": "govuk",
+    "sourceName": "GOV.UK",
+    "publishedAt": "2026-09-10T15:15:37Z",
+    "kind": "official"
+  },
+  {
     "id": "govuk-2026-09-10-monthly-entry-clearance-visa-applications-august-2026",
     "title": "Monthly entry clearance visa applications: August 2026",
     "summary": "Statistics on visa applications for people coming to the UK for work, study and family reasons.",
