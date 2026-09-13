@@ -1,9 +1,9 @@
 {
-  "lastSyncAt": "2026-09-12T09:29:34.445Z",
-  "lastNewsSyncAt": "2026-09-12T09:29:34.445Z",
+  "lastSyncAt": "2026-09-13T10:26:33.555Z",
+  "lastNewsSyncAt": "2026-09-13T10:26:33.555Z",
   "lastSyncOk": true,
   "lastError": null,
-  "durationMs": 16093,
+  "durationMs": 13619,
   "sources": {
     "govuk-register": {
       "ok": true,
@@ -26,9 +26,9 @@
       "ok": true,
       "count": 1
     },
-    "jobicy": {
+    "himalayas": {
       "ok": true,
-      "count": 100
+      "count": 4
     },
     "landingjobs": {
       "ok": false,
@@ -39,17 +39,17 @@
       "ok": true,
       "count": 2
     },
-    "himalayas": {
+    "weworkremotely": {
       "ok": true,
-      "count": 13
+      "count": 109
     },
     "workingnomads": {
       "ok": true,
       "count": 7
     },
-    "weworkremotely": {
+    "jobicy": {
       "ok": true,
-      "count": 109
+      "count": 100
     },
     "visa-news": {
       "ok": true,
@@ -61,7 +61,7 @@
     },
     "teaching-vacancies": {
       "ok": true,
-      "count": 685
+      "count": 626
     },
     "themuse": {
       "ok": true,
@@ -69,8 +69,8 @@
     }
   },
   "sponsorCount": 121964,
-  "jobCount": 791,
-  "confirmedCount": 6,
+  "jobCount": 779,
+  "confirmedCount": 5,
   "newsCount": 26,
   "registerUpdatedAt": "2026-09-11T11:31:11+01:00",
   "registerFilename": "SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-09-11.csv"
