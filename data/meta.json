@@ -1,9 +1,9 @@
 {
-  "lastSyncAt": "2026-09-27T10:39:16.319Z",
-  "lastNewsSyncAt": "2026-09-27T10:39:16.319Z",
+  "lastSyncAt": "2026-09-28T11:51:53.384Z",
+  "lastNewsSyncAt": "2026-09-28T11:51:53.384Z",
   "lastSyncOk": true,
   "lastError": null,
-  "durationMs": 14674,
+  "durationMs": 14604,
   "sources": {
     "govuk-register": {
       "ok": true,
@@ -20,7 +20,7 @@
     "arbeitnow": {
       "ok": false,
       "count": 0,
-      "error": "403 Forbidden for https://www.arbeitnow.co.uk/api/job-board-api?visa_sponsorship=true"
+      "error": "403 Forbidden for https://www.arbeitnow.co.uk/api/job-board-api"
     },
     "remotive": {
       "ok": true,
@@ -31,25 +31,25 @@
       "count": 0,
       "error": "403 Forbidden for https://landing.jobs/api/v1/jobs?limit=150"
     },
-    "himalayas": {
-      "ok": true,
-      "count": 3
-    },
     "remoteok": {
       "ok": true,
       "count": 1
     },
-    "weworkremotely": {
+    "himalayas": {
       "ok": true,
-      "count": 100
-    },
-    "visa-news": {
-      "ok": true,
-      "count": 26
+      "count": 6
     },
     "workingnomads": {
       "ok": true,
       "count": 10
+    },
+    "weworkremotely": {
+      "ok": true,
+      "count": 103
+    },
+    "visa-news": {
+      "ok": true,
+      "count": 26
     },
     "jobicy": {
       "ok": true,
@@ -57,21 +57,21 @@
     },
     "ats-boards": {
       "ok": true,
-      "count": 746
+      "count": 748
     },
     "teaching-vacancies": {
       "ok": true,
-      "count": 618
+      "count": 651
     },
     "themuse": {
       "ok": true,
-      "count": 166
+      "count": 165
     }
   },
-  "sponsorCount": 121949,
-  "jobCount": 768,
+  "sponsorCount": 121938,
+  "jobCount": 798,
   "confirmedCount": 1,
   "newsCount": 26,
-  "registerUpdatedAt": "2026-09-25T10:53:01+01:00",
-  "registerFilename": "SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-09-25.csv"
+  "registerUpdatedAt": "2026-09-28T09:30:11+01:00",
+  "registerFilename": "SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-09-28.csv"
 }
