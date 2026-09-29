@@ -1,9 +1,9 @@
 {
-  "lastSyncAt": "2026-09-28T11:51:53.384Z",
-  "lastNewsSyncAt": "2026-09-28T11:51:53.384Z",
+  "lastSyncAt": "2026-09-29T11:28:20.866Z",
+  "lastNewsSyncAt": "2026-09-29T11:28:20.866Z",
   "lastSyncOk": true,
   "lastError": null,
-  "durationMs": 14604,
+  "durationMs": 13137,
   "sources": {
     "govuk-register": {
       "ok": true,
@@ -26,6 +26,10 @@
       "ok": true,
       "count": 0
     },
+    "himalayas": {
+      "ok": true,
+      "count": 3
+    },
     "landingjobs": {
       "ok": false,
       "count": 0,
@@ -35,21 +39,17 @@
       "ok": true,
       "count": 1
     },
-    "himalayas": {
-      "ok": true,
-      "count": 6
-    },
     "workingnomads": {
       "ok": true,
       "count": 10
     },
-    "weworkremotely": {
-      "ok": true,
-      "count": 103
-    },
     "visa-news": {
       "ok": true,
       "count": 26
+    },
+    "weworkremotely": {
+      "ok": true,
+      "count": 105
     },
     "jobicy": {
       "ok": true,
@@ -57,21 +57,21 @@
     },
     "ats-boards": {
       "ok": true,
-      "count": 748
+      "count": 752
     },
     "teaching-vacancies": {
       "ok": true,
-      "count": 651
+      "count": 789
     },
     "themuse": {
       "ok": true,
-      "count": 165
+      "count": 164
     }
   },
-  "sponsorCount": 121938,
-  "jobCount": 798,
+  "sponsorCount": 121932,
+  "jobCount": 805,
   "confirmedCount": 1,
   "newsCount": 26,
-  "registerUpdatedAt": "2026-09-28T09:30:11+01:00",
-  "registerFilename": "SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-09-28.csv"
+  "registerUpdatedAt": "2026-09-29T09:11:22+01:00",
+  "registerFilename": "SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-09-29.csv"
 }
