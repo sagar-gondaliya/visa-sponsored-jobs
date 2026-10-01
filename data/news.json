@@ -1,5 +1,25 @@
 [
   {
+    "id": "govuk-2026-09-30-online-immigration-status-evisa-ukvi-account-creation-data",
+    "title": "Online immigration status (eVisa): UKVI account creation data",
+    "summary": "Operational statistics on how many people have created an account to access an eVisa.",
+    "url": "https://www.gov.uk/government/publications/online-immigration-status-evisa-ukvi-account-creation-data",
+    "source": "govuk",
+    "sourceName": "GOV.UK",
+    "publishedAt": "2026-09-30T16:36:19Z",
+    "kind": "official"
+  },
+  {
+    "id": "govuk-2026-09-30-buckinghamshire-new-university-student-sponsor-licence-suspensi",
+    "title": "Buckinghamshire New University: Student sponsor licence suspension",
+    "summary": "On 30 September 2026, the Home Office suspended Buckinghamshire New University's Student sponsor licence.",
+    "url": "https://www.gov.uk/government/publications/buckinghamshire-new-university-student-sponsor-licence-suspension",
+    "source": "govuk",
+    "sourceName": "GOV.UK",
+    "publishedAt": "2026-09-30T14:00:02Z",
+    "kind": "official"
+  },
+  {
     "id": "bbc-2026-09-28-track-uk-s-latest-migration-numbers-net-migration-visas-asylum-an",
     "title": "Track UK's latest migration numbers - net migration, visas, asylum and small boats",
     "summary": "Use our interactive tracker to explore the latest migration statistics for the UK",
@@ -17,16 +37,6 @@
     "source": "guardian",
     "sourceName": "The Guardian",
     "publishedAt": "2026-09-26T12:01:11.000Z",
-    "kind": "news"
-  },
-  {
-    "id": "bbc-2026-09-26-rayner-criticises-visa-rule-proposals-ahead-of-labour-conference",
-    "title": "Rayner criticises visa rule proposals ahead of Labour conference",
-    "summary": "The housing secretary says the government's plans to change wait times for permanent residency are unfair because they \"change the goalposts\".",
-    "url": "https://www.bbc.co.uk/news/articles/cmx2zz035q99o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "sourceName": "BBC News",
-    "publishedAt": "2026-09-26T10:39:33.000Z",
     "kind": "news"
   },
   {
