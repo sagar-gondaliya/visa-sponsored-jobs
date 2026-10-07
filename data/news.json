@@ -1,5 +1,15 @@
 [
   {
+    "id": "bbc-2026-10-06-track-uk-s-latest-migration-numbers-net-migration-visas-asylum-an",
+    "title": "Track UK's latest migration numbers - net migration, visas, asylum and small boats",
+    "summary": "Use our interactive tracker to explore the latest migration statistics for the UK",
+    "url": "https://www.bbc.co.uk/news/articles/c70989jrdweo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "sourceName": "BBC News",
+    "publishedAt": "2026-10-06T15:20:37.000Z",
+    "kind": "news"
+  },
+  {
     "id": "govuk-2026-10-02-multi-factor-authentication-for-uk-visa-sponsors-sms-manual-13",
     "title": "Multi-factor authentication for UK visa sponsors: SMS manual 13",
     "summary": "Step-by-step guide to using multi-factor authentication (MFA) when logging into the sponsorship management system (SMS).",
@@ -28,16 +38,6 @@
     "sourceName": "GOV.UK",
     "publishedAt": "2026-09-30T14:00:02Z",
     "kind": "official"
-  },
-  {
-    "id": "bbc-2026-09-28-track-uk-s-latest-migration-numbers-net-migration-visas-asylum-an",
-    "title": "Track UK's latest migration numbers - net migration, visas, asylum and small boats",
-    "summary": "Use our interactive tracker to explore the latest migration statistics for the UK",
-    "url": "https://www.bbc.co.uk/news/articles/c70989jrdweo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "sourceName": "BBC News",
-    "publishedAt": "2026-09-28T12:38:07.000Z",
-    "kind": "news"
   },
   {
     "id": "govuk-2026-09-10-monthly-entry-clearance-visa-applications-august-2026",
