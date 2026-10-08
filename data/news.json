@@ -1,5 +1,55 @@
 [
   {
+    "id": "govuk-2026-10-08-immigration-rules-index",
+    "title": "Immigration Rules: Index",
+    "summary": "The rules are divided into different documents. The index page will help you find the part you need.",
+    "url": "https://www.gov.uk/guidance/immigration-rules/immigration-rules-index",
+    "source": "govuk",
+    "sourceName": "GOV.UK",
+    "publishedAt": "2026-10-08T08:34:13Z",
+    "kind": "official"
+  },
+  {
+    "id": "govuk-2026-10-08-immigration-rules-part-suitability",
+    "title": "Immigration Rules: Part Suitability",
+    "summary": "Part Suitability",
+    "url": "https://www.gov.uk/guidance/immigration-rules/immigration-rules-part-suitability",
+    "source": "govuk",
+    "sourceName": "GOV.UK",
+    "publishedAt": "2026-10-08T08:30:36Z",
+    "kind": "official"
+  },
+  {
+    "id": "govuk-2026-10-08-monthly-entry-clearance-visa-applications-september-2026",
+    "title": "Monthly entry clearance visa applications: September 2026",
+    "summary": "Statistics on visa applications for people coming to the UK for work, study and family reasons.",
+    "url": "https://www.gov.uk/government/statistics/monthly-entry-clearance-visa-applications-september-2026",
+    "source": "govuk",
+    "sourceName": "GOV.UK",
+    "publishedAt": "2026-10-08T08:30:15Z",
+    "kind": "official"
+  },
+  {
+    "id": "govuk-2026-10-08-immigration-rules-introduction",
+    "title": "Immigration Rules: introduction",
+    "summary": "This contains an explanation of who’s covered by the Immigration Rules, dates of effect and definitions/interpretations of the terms used.",
+    "url": "https://www.gov.uk/guidance/immigration-rules/immigration-rules-introduction",
+    "source": "govuk",
+    "sourceName": "GOV.UK",
+    "publishedAt": "2026-10-08T06:15:58Z",
+    "kind": "official"
+  },
+  {
+    "id": "govuk-2026-10-07-visit-caseworker-guidance",
+    "title": "Visit: caseworker guidance",
+    "summary": "Immigration staff guidance about the different visitor categories for visiting the UK and how UK Visas and Immigration makes decisions on visitor cases.",
+    "url": "https://www.gov.uk/government/publications/visit-guidance",
+    "source": "govuk",
+    "sourceName": "GOV.UK",
+    "publishedAt": "2026-10-07T23:01:02Z",
+    "kind": "official"
+  },
+  {
     "id": "bbc-2026-10-06-track-uk-s-latest-migration-numbers-net-migration-visas-asylum-an",
     "title": "Track UK's latest migration numbers - net migration, visas, asylum and small boats",
     "summary": "Use our interactive tracker to explore the latest migration statistics for the UK",
@@ -46,7 +96,7 @@
     "url": "https://www.gov.uk/government/statistics/monthly-entry-clearance-visa-applications-august-2026",
     "source": "govuk",
     "sourceName": "GOV.UK",
-    "publishedAt": "2026-09-10T08:30:07Z",
+    "publishedAt": "2026-09-10T08:30:00Z",
     "kind": "official"
   },
   {
@@ -76,7 +126,7 @@
     "url": "https://www.gov.uk/government/statistics/monthly-entry-clearance-visa-applications-july-2026",
     "source": "govuk",
     "sourceName": "GOV.UK",
-    "publishedAt": "2026-08-13T08:30:10Z",
+    "publishedAt": "2026-08-13T08:30:00Z",
     "kind": "official"
   },
   {
@@ -127,16 +177,6 @@
     "source": "govuk",
     "sourceName": "GOV.UK",
     "publishedAt": "2026-07-09T09:55:00Z",
-    "kind": "official"
-  },
-  {
-    "id": "govuk-2026-07-09-monthly-entry-clearance-visa-applications-june-2026",
-    "title": "Monthly entry clearance visa applications: June 2026",
-    "summary": "Statistics on visa applications for people coming to the UK for work, study and family reasons.",
-    "url": "https://www.gov.uk/government/statistics/monthly-entry-clearance-visa-applications-june-2026",
-    "source": "govuk",
-    "sourceName": "GOV.UK",
-    "publishedAt": "2026-07-09T08:30:00Z",
     "kind": "official"
   },
   {
