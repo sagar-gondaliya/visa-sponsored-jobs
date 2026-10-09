@@ -1,5 +1,25 @@
 [
   {
+    "id": "govuk-2026-10-09-student-sponsor-guidance",
+    "title": "Student sponsor guidance",
+    "summary": "How to apply for a Student sponsor licence and how to sponsor a student.",
+    "url": "https://www.gov.uk/government/publications/student-sponsor-guidance",
+    "source": "govuk",
+    "sourceName": "GOV.UK",
+    "publishedAt": "2026-10-09T10:55:49Z",
+    "kind": "official"
+  },
+  {
+    "id": "govuk-2026-10-09-victims-freed-from-abusive-employers-under-new-visa-rules",
+    "title": "Victims freed from abusive employers under new visa rules",
+    "summary": "Recognised modern slavery victims on Skilled Worker visas can now leave abusive employers and work for any employer for the remainder of their visa.",
+    "url": "https://www.gov.uk/government/news/victims-freed-from-abusive-employers-under-new-visa-rules",
+    "source": "govuk",
+    "sourceName": "GOV.UK",
+    "publishedAt": "2026-10-09T10:41:52Z",
+    "kind": "official"
+  },
+  {
     "id": "govuk-2026-10-08-immigration-rules-index",
     "title": "Immigration Rules: Index",
     "summary": "The rules are divided into different documents. The index page will help you find the part you need.",

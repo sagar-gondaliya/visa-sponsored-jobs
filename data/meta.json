@@ -1,9 +1,9 @@
 {
-  "lastSyncAt": "2026-10-08T12:09:25.498Z",
-  "lastNewsSyncAt": "2026-10-08T12:09:25.498Z",
+  "lastSyncAt": "2026-10-09T12:00:45.863Z",
+  "lastNewsSyncAt": "2026-10-09T12:00:45.863Z",
   "lastSyncOk": true,
   "lastError": null,
-  "durationMs": 13726,
+  "durationMs": 21022,
   "sources": {
     "govuk-register": {
       "ok": true,
@@ -20,20 +20,20 @@
     "arbeitnow": {
       "ok": false,
       "count": 0,
-      "error": "403 Forbidden for https://www.arbeitnow.co.uk/api/job-board-api?visa_sponsorship=true"
+      "error": "403 Forbidden for https://www.arbeitnow.co.uk/api/job-board-api"
     },
     "remotive": {
       "ok": true,
       "count": 2
     },
-    "himalayas": {
-      "ok": true,
-      "count": 4
-    },
     "landingjobs": {
       "ok": false,
       "count": 0,
       "error": "403 Forbidden for https://landing.jobs/api/v1/jobs?limit=150"
+    },
+    "himalayas": {
+      "ok": true,
+      "count": 8
     },
     "remoteok": {
       "ok": true,
@@ -41,37 +41,37 @@
     },
     "visa-news": {
       "ok": true,
-      "count": 30
+      "count": 32
     },
     "weworkremotely": {
       "ok": true,
-      "count": 110
+      "count": 109
     },
     "jobicy": {
       "ok": true,
       "count": 100
     },
-    "workingnomads": {
+    "teaching-vacancies": {
       "ok": true,
-      "count": 8
+      "count": 743
     },
     "ats-boards": {
       "ok": true,
-      "count": 742
-    },
-    "teaching-vacancies": {
-      "ok": true,
-      "count": 646
+      "count": 751
     },
     "themuse": {
       "ok": true,
       "count": 163
+    },
+    "workingnomads": {
+      "ok": true,
+      "count": 7
     }
   },
-  "sponsorCount": 122033,
-  "jobCount": 785,
-  "confirmedCount": 2,
-  "newsCount": 30,
-  "registerUpdatedAt": "2026-10-08T10:31:20+01:00",
-  "registerFilename": "SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-10-08.csv"
+  "sponsorCount": 122053,
+  "jobCount": 837,
+  "confirmedCount": 3,
+  "newsCount": 32,
+  "registerUpdatedAt": "2026-10-09T10:40:33+01:00",
+  "registerFilename": "SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-10-09.csv"
 }
