@@ -1,9 +1,9 @@
 {
-  "lastSyncAt": "2026-10-11T11:30:43.728Z",
-  "lastNewsSyncAt": "2026-10-11T11:30:43.728Z",
+  "lastSyncAt": "2026-10-12T13:22:48.364Z",
+  "lastNewsSyncAt": "2026-10-12T13:22:48.364Z",
   "lastSyncOk": true,
   "lastError": null,
-  "durationMs": 13028,
+  "durationMs": 21206,
   "sources": {
     "govuk-register": {
       "ok": true,
@@ -22,56 +22,56 @@
       "count": 0,
       "error": "403 Forbidden for https://www.arbeitnow.co.uk/api/job-board-api?visa_sponsorship=true"
     },
-    "himalayas": {
-      "ok": true,
-      "count": 13
-    },
     "remotive": {
       "ok": true,
       "count": 2
     },
+    "himalayas": {
+      "ok": true,
+      "count": 6
+    },
     "jobicy": {
       "ok": true,
       "count": 100
-    },
-    "remoteok": {
-      "ok": true,
-      "count": 5
     },
     "landingjobs": {
       "ok": false,
       "count": 0,
       "error": "403 Forbidden for https://landing.jobs/api/v1/jobs?limit=150"
     },
-    "workingnomads": {
+    "remoteok": {
       "ok": true,
-      "count": 6
-    },
-    "visa-news": {
-      "ok": true,
-      "count": 32
+      "count": 5
     },
     "weworkremotely": {
       "ok": true,
-      "count": 107
+      "count": 106
+    },
+    "visa-news": {
+      "ok": true,
+      "count": 31
+    },
+    "workingnomads": {
+      "ok": true,
+      "count": 5
     },
     "ats-boards": {
       "ok": true,
-      "count": 759
+      "count": 755
     },
     "teaching-vacancies": {
       "ok": true,
-      "count": 647
+      "count": 690
     },
     "themuse": {
       "ok": true,
       "count": 164
     }
   },
-  "sponsorCount": 122053,
-  "jobCount": 825,
+  "sponsorCount": 122054,
+  "jobCount": 837,
   "confirmedCount": 2,
-  "newsCount": 32,
-  "registerUpdatedAt": "2026-10-09T10:40:33+01:00",
-  "registerFilename": "SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-10-09.csv"
+  "newsCount": 31,
+  "registerUpdatedAt": "2026-10-12T10:08:49+01:00",
+  "registerFilename": "SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-10-12.csv"
 }

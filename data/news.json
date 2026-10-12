@@ -170,16 +170,6 @@
     "kind": "official"
   },
   {
-    "id": "govuk-2026-08-02-global-business-mobility-routes-caseworker-guidance",
-    "title": "Global Business Mobility routes caseworker guidance",
-    "summary": "Immigration staff guide for how UK Visas and Immigration considers applications to enter or remain in the UK on the Global Business Mobility routes.",
-    "url": "https://www.gov.uk/government/publications/global-business-mobility-routes-caseworker-guidance",
-    "source": "govuk",
-    "sourceName": "GOV.UK",
-    "publishedAt": "2026-08-02T23:01:01Z",
-    "kind": "official"
-  },
-  {
     "id": "govuk-2026-08-02-permission-to-stay-as-a-stateless-person-caseworker-guidance",
     "title": "Permission to stay as a stateless person: caseworker guidance",
     "summary": "Guidance used by UK Visas and Immigration when deciding applications from stateless people.",
