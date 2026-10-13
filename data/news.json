@@ -1,5 +1,15 @@
 [
   {
+    "id": "govuk-2026-10-12-online-immigration-status-evisa-ukvi-account-creation-data",
+    "title": "Online immigration status (eVisa): UKVI account creation data",
+    "summary": "Operational statistics on how many people have created an account to access an eVisa.",
+    "url": "https://www.gov.uk/government/publications/online-immigration-status-evisa-ukvi-account-creation-data",
+    "source": "govuk",
+    "sourceName": "GOV.UK",
+    "publishedAt": "2026-10-12T16:15:34Z",
+    "kind": "official"
+  },
+  {
     "id": "govuk-2026-10-09-student-sponsor-guidance",
     "title": "Student sponsor guidance",
     "summary": "How to apply for a Student sponsor licence and how to sponsor a student.",
@@ -90,16 +100,6 @@
     "kind": "official"
   },
   {
-    "id": "govuk-2026-09-30-online-immigration-status-evisa-ukvi-account-creation-data",
-    "title": "Online immigration status (eVisa): UKVI account creation data",
-    "summary": "Operational statistics on how many people have created an account to access an eVisa.",
-    "url": "https://www.gov.uk/government/publications/online-immigration-status-evisa-ukvi-account-creation-data",
-    "source": "govuk",
-    "sourceName": "GOV.UK",
-    "publishedAt": "2026-09-30T16:36:19Z",
-    "kind": "official"
-  },
-  {
     "id": "govuk-2026-09-30-buckinghamshire-new-university-student-sponsor-licence-suspensi",
     "title": "Buckinghamshire New University: Student sponsor licence suspension",
     "summary": "On 30 September 2026, the Home Office suspended Buckinghamshire New University's Student sponsor licence.",
@@ -157,16 +157,6 @@
     "source": "govuk",
     "sourceName": "GOV.UK",
     "publishedAt": "2026-08-06T08:00:01Z",
-    "kind": "official"
-  },
-  {
-    "id": "govuk-2026-08-05-global-talent-visa-expanded-to-attract-world-s-brightest-resear",
-    "title": "Global Talent visa expanded to attract world's brightest researchers to power British innovation",
-    "summary": "More than 100 innovative research companies can now support the world's brightest researchers to come and work in the UK through the Global Talent visa.",
-    "url": "https://www.gov.uk/government/news/global-talent-visa-expanded-to-attract-worlds-brightest-researchers-to-power-british-innovation",
-    "source": "govuk",
-    "sourceName": "GOV.UK",
-    "publishedAt": "2026-08-05T23:01:00Z",
     "kind": "official"
   },
   {

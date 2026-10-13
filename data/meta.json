@@ -1,9 +1,9 @@
 {
-  "lastSyncAt": "2026-10-12T13:22:48.364Z",
-  "lastNewsSyncAt": "2026-10-12T13:22:48.364Z",
+  "lastSyncAt": "2026-10-13T12:50:31.745Z",
+  "lastNewsSyncAt": "2026-10-13T12:50:31.745Z",
   "lastSyncOk": true,
   "lastError": null,
-  "durationMs": 21206,
+  "durationMs": 22268,
   "sources": {
     "govuk-register": {
       "ok": true,
@@ -20,7 +20,7 @@
     "arbeitnow": {
       "ok": false,
       "count": 0,
-      "error": "403 Forbidden for https://www.arbeitnow.co.uk/api/job-board-api?visa_sponsorship=true"
+      "error": "403 Forbidden for https://www.arbeitnow.co.uk/api/job-board-api"
     },
     "remotive": {
       "ok": true,
@@ -28,28 +28,28 @@
     },
     "himalayas": {
       "ok": true,
-      "count": 6
+      "count": 2
     },
     "jobicy": {
       "ok": true,
       "count": 100
+    },
+    "remoteok": {
+      "ok": true,
+      "count": 5
     },
     "landingjobs": {
       "ok": false,
       "count": 0,
       "error": "403 Forbidden for https://landing.jobs/api/v1/jobs?limit=150"
     },
-    "remoteok": {
-      "ok": true,
-      "count": 5
-    },
     "weworkremotely": {
       "ok": true,
-      "count": 106
+      "count": 107
     },
     "visa-news": {
       "ok": true,
-      "count": 31
+      "count": 30
     },
     "workingnomads": {
       "ok": true,
@@ -57,21 +57,21 @@
     },
     "ats-boards": {
       "ok": true,
-      "count": 755
+      "count": 760
     },
     "teaching-vacancies": {
       "ok": true,
-      "count": 690
+      "count": 643
     },
     "themuse": {
       "ok": true,
       "count": 164
     }
   },
-  "sponsorCount": 122054,
-  "jobCount": 837,
+  "sponsorCount": 122077,
+  "jobCount": 825,
   "confirmedCount": 2,
-  "newsCount": 31,
-  "registerUpdatedAt": "2026-10-12T10:08:49+01:00",
-  "registerFilename": "SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-10-12.csv"
+  "newsCount": 30,
+  "registerUpdatedAt": "2026-10-13T09:40:26+01:00",
+  "registerFilename": "SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-10-13.csv"
 }
