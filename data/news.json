@@ -1,5 +1,15 @@
 [
   {
+    "id": "govuk-2026-10-15-home-secretary-threatens-eritrea-with-visa-penalties",
+    "title": "Home Secretary threatens Eritrea with visa penalties",
+    "summary": "Home Secretary gives Eritrea ultimatum: accept returns or lose UK visa access.",
+    "url": "https://www.gov.uk/government/news/home-secretary-threatens-eritrea-with-visa-penalties",
+    "source": "govuk",
+    "sourceName": "GOV.UK",
+    "publishedAt": "2026-10-15T09:42:44Z",
+    "kind": "official"
+  },
+  {
     "id": "govuk-2026-10-12-online-immigration-status-evisa-ukvi-account-creation-data",
     "title": "Online immigration status (eVisa): UKVI account creation data",
     "summary": "Operational statistics on how many people have created an account to access an eVisa.",
@@ -147,16 +157,6 @@
     "source": "govuk",
     "sourceName": "GOV.UK",
     "publishedAt": "2026-08-13T08:30:00Z",
-    "kind": "official"
-  },
-  {
-    "id": "govuk-2026-08-06-bloomsbury-institute-s-student-sponsor-licence-revoked",
-    "title": "Bloomsbury Institute's student sponsor licence revoked",
-    "summary": "The Bloomsbury Institute, a higher education provider in central London, has had its licence to sponsor international students revoked.",
-    "url": "https://www.gov.uk/government/news/bloomsbury-institutes-student-sponsor-licence-revoked",
-    "source": "govuk",
-    "sourceName": "GOV.UK",
-    "publishedAt": "2026-08-06T08:00:01Z",
     "kind": "official"
   },
   {
