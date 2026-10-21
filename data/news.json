@@ -130,16 +130,6 @@
     "kind": "official"
   },
   {
-    "id": "govuk-2026-10-02-multi-factor-authentication-for-uk-visa-sponsors-sms-manual-13",
-    "title": "Multi-factor authentication for UK visa sponsors: SMS manual 13",
-    "summary": "Step-by-step guide to using multi-factor authentication (MFA) when logging into the sponsorship management system (SMS).",
-    "url": "https://www.gov.uk/government/publications/multi-factor-authentication-for-uk-visa-sponsors-sms-manual-13",
-    "source": "govuk",
-    "sourceName": "GOV.UK",
-    "publishedAt": "2026-10-02T09:44:18Z",
-    "kind": "official"
-  },
-  {
     "id": "govuk-2026-09-10-monthly-entry-clearance-visa-applications-august-2026",
     "title": "Monthly entry clearance visa applications: August 2026",
     "summary": "Statistics on visa applications for people coming to the UK for work, study and family reasons.",
