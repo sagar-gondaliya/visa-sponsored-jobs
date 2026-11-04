@@ -1,9 +1,9 @@
 {
-  "lastSyncAt": "2026-11-03T12:56:50.839Z",
-  "lastNewsSyncAt": "2026-11-03T12:56:50.839Z",
+  "lastSyncAt": "2026-11-04T13:10:19.614Z",
+  "lastNewsSyncAt": "2026-11-04T13:10:19.614Z",
   "lastSyncOk": true,
   "lastError": null,
-  "durationMs": 41597,
+  "durationMs": 14068,
   "sources": {
     "govuk-register": {
       "ok": true,
@@ -20,58 +20,58 @@
     "arbeitnow": {
       "ok": false,
       "count": 0,
-      "error": "403 Forbidden for https://www.arbeitnow.co.uk/api/job-board-api?visa_sponsorship=true"
+      "error": "403 Forbidden for https://www.arbeitnow.co.uk/api/job-board-api"
     },
     "remotive": {
       "ok": true,
       "count": 0
-    },
-    "himalayas": {
-      "ok": true,
-      "count": 10
-    },
-    "remoteok": {
-      "ok": true,
-      "count": 4
     },
     "landingjobs": {
       "ok": false,
       "count": 0,
       "error": "403 Forbidden for https://landing.jobs/api/v1/jobs?limit=150"
     },
+    "remoteok": {
+      "ok": true,
+      "count": 4
+    },
     "workingnomads": {
       "ok": true,
       "count": 3
-    },
-    "visa-news": {
-      "ok": true,
-      "count": 34
-    },
-    "weworkremotely": {
-      "ok": true,
-      "count": 122
     },
     "jobicy": {
       "ok": true,
       "count": 100
     },
+    "visa-news": {
+      "ok": true,
+      "count": 33
+    },
+    "weworkremotely": {
+      "ok": true,
+      "count": 124
+    },
+    "himalayas": {
+      "ok": true,
+      "count": 1
+    },
+    "ats-boards": {
+      "ok": true,
+      "count": 741
+    },
     "teaching-vacancies": {
       "ok": true,
-      "count": 757
+      "count": 652
     },
     "themuse": {
       "ok": true,
       "count": 163
-    },
-    "ats-boards": {
-      "ok": true,
-      "count": 742
     }
   },
-  "sponsorCount": 122025,
-  "jobCount": 858,
-  "confirmedCount": 6,
-  "newsCount": 34,
-  "registerUpdatedAt": "2026-11-03T11:03:27+00:00",
-  "registerFilename": "SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-03.csv"
+  "sponsorCount": 122031,
+  "jobCount": 776,
+  "confirmedCount": 4,
+  "newsCount": 33,
+  "registerUpdatedAt": "2026-11-04T10:36:25+00:00",
+  "registerFilename": "SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-04.csv"
 }

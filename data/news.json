@@ -1,5 +1,15 @@
 [
   {
+    "id": "bbc-2026-11-03-what-are-the-planned-changes-to-immigration-rules",
+    "title": "What are the planned changes to immigration rules?",
+    "summary": "The home secretary sets out plans to change requirements for permanent settlement in the UK.",
+    "url": "https://www.bbc.co.uk/news/articles/c6ly052pdx4no?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "sourceName": "BBC News",
+    "publishedAt": "2026-11-03T12:56:34.000Z",
+    "kind": "news"
+  },
+  {
     "id": "guardian-2026-11-03-australia-seeks-to-change-visa-deal-with-uk-after-influx-of-",
     "title": "Australia seeks to change visa deal with UK after influx of Britons",
     "summary": "Australia says easing of rules has led to surge in British visitor numbers, putting pressure on local workforce • UK politics live – latest updates The Australian prime minister, Anthony Albanese, has told Andy Burnham he is looking at changing rules for British backpackers in…",
@@ -37,26 +47,6 @@
     "source": "guardian",
     "sourceName": "The Guardian",
     "publishedAt": "2026-11-02T19:06:40.000Z",
-    "kind": "news"
-  },
-  {
-    "id": "bbc-2026-11-02-what-are-the-planned-changes-to-immigration-rules",
-    "title": "What are the planned changes to immigration rules?",
-    "summary": "The home secretary sets out plans to change requirements for permanent settlement in the UK.",
-    "url": "https://www.bbc.co.uk/news/articles/c6ly052pdx4no?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "sourceName": "BBC News",
-    "publishedAt": "2026-11-02T18:49:43.000Z",
-    "kind": "news"
-  },
-  {
-    "id": "guardian-2026-10-29-sara-won-a-prized-place-to-study-medicine-in-glasgow-why-is-",
-    "title": "Sara won a prized place to study medicine in Glasgow. Why is the Home Office blocking her?",
-    "summary": "She fought every obstacle in Afghanistan to pursue her dream of becoming a doctor – fleeing her abusive father and the Taliban. But this talented, tenacious student has now been denied a visa, for contradictory reasons, three times For the last decade, Sara (not her real name),…",
-    "url": "https://www.theguardian.com/uk-news/2026/oct/29/sara-won-a-prized-place-to-study-medicine-in-glasgow-why-is-the-home-office-blocking-her",
-    "source": "guardian",
-    "sourceName": "The Guardian",
-    "publishedAt": "2026-10-29T18:02:31.000Z",
     "kind": "news"
   },
   {
