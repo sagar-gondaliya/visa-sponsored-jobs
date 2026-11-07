@@ -1,5 +1,15 @@
 [
   {
+    "id": "govuk-2026-11-06-student-sponsor-guidance",
+    "title": "Student sponsor guidance",
+    "summary": "How to apply for a Student sponsor licence and how to sponsor a student.",
+    "url": "https://www.gov.uk/government/publications/student-sponsor-guidance",
+    "source": "govuk",
+    "sourceName": "GOV.UK",
+    "publishedAt": "2026-11-06T13:40:56Z",
+    "kind": "official"
+  },
+  {
     "id": "bbc-2026-11-06-home-office-investigating-after-bbc-catches-lawyer-offering-to-ma",
     "title": "Home Office investigating after BBC catches lawyer offering to make fines go away",
     "summary": "The Home Office said it will be investigating the allegations to see whether there has been a breach of immigration rules.",
@@ -107,16 +117,6 @@
     "source": "govuk",
     "sourceName": "GOV.UK",
     "publishedAt": "2026-10-12T16:15:34Z",
-    "kind": "official"
-  },
-  {
-    "id": "govuk-2026-10-09-student-sponsor-guidance",
-    "title": "Student sponsor guidance",
-    "summary": "How to apply for a Student sponsor licence and how to sponsor a student.",
-    "url": "https://www.gov.uk/government/publications/student-sponsor-guidance",
-    "source": "govuk",
-    "sourceName": "GOV.UK",
-    "publishedAt": "2026-10-09T10:55:49Z",
     "kind": "official"
   },
   {
