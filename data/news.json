@@ -1,5 +1,25 @@
 [
   {
+    "id": "govuk-2026-11-12-monthly-entry-clearance-visa-applications-october-2026",
+    "title": "Monthly entry clearance visa applications: October 2026",
+    "summary": "Statistics on visa applications for people coming to the UK for work, study and family reasons.",
+    "url": "https://www.gov.uk/government/statistics/monthly-entry-clearance-visa-applications-october-2026",
+    "source": "govuk",
+    "sourceName": "GOV.UK",
+    "publishedAt": "2026-11-12T09:30:11Z",
+    "kind": "official"
+  },
+  {
+    "id": "guardian-2026-11-11-asylum-law-changes-are-causing-refugee-families-like-mine-te",
+    "title": "Asylum law changes are causing refugee families like mine terrible worry | Letter",
+    "summary": "A reader highlights how the government’s immigration changes are affecting those who have been granted asylum and wish to apply for indefinite leave to remain I am writing as a refugee who has lived in the UK since 2007. I claimed asylum in 2007, and my appeal was allowed by the…",
+    "url": "https://www.theguardian.com/uk-news/2026/nov/11/asylum-law-changes-are-causing-refugee-families-like-mine-terrible-worry",
+    "source": "guardian",
+    "sourceName": "The Guardian",
+    "publishedAt": "2026-11-11T17:26:11.000Z",
+    "kind": "news"
+  },
+  {
     "id": "guardian-2026-11-08-windrush-accusations-over-sharp-rise-in-turkish-nationals-fa",
     "title": "‘Windrush’ accusations over sharp rise in Turkish nationals facing removal from UK",
     "summary": "David Lammy among those raising concerns after errors found in rejected applications for indefinite leave to remain Concerns have been raised over the sudden rise in number of Turkish nationals facing removal from the UK as a result of mistakes, prompting accusations that the…",
@@ -57,16 +77,6 @@
     "source": "guardian",
     "sourceName": "The Guardian",
     "publishedAt": "2026-11-02T20:39:52.000Z",
-    "kind": "news"
-  },
-  {
-    "id": "guardian-2026-11-02-how-will-uk-immigration-rules-change-under-shabana-mahmood-s",
-    "title": "How will UK immigration rules change under Shabana Mahmood’s latest plans?",
-    "summary": "Home secretary has softened on some proposals but is still hardening rules for those wishing to settle permanently Shabana Mahmood has watered down some of last year’s immigration plans after a backlash from enraged backbench Labour MPs and some of her cabinet colleagues. But…",
-    "url": "https://www.theguardian.com/uk-news/2026/nov/02/uk-immigration-rules-shabana-mahmood-latest-plans",
-    "source": "guardian",
-    "sourceName": "The Guardian",
-    "publishedAt": "2026-11-02T19:46:56.000Z",
     "kind": "news"
   },
   {
@@ -146,7 +156,7 @@
     "url": "https://www.gov.uk/government/statistics/monthly-entry-clearance-visa-applications-september-2026",
     "source": "govuk",
     "sourceName": "GOV.UK",
-    "publishedAt": "2026-10-08T08:30:15Z",
+    "publishedAt": "2026-10-08T08:30:00Z",
     "kind": "official"
   },
   {
@@ -187,16 +197,6 @@
     "source": "govuk",
     "sourceName": "GOV.UK",
     "publishedAt": "2026-09-03T12:20:17Z",
-    "kind": "official"
-  },
-  {
-    "id": "govuk-2026-08-13-monthly-entry-clearance-visa-applications-july-2026",
-    "title": "Monthly entry clearance visa applications: July 2026",
-    "summary": "Statistics on visa applications for people coming to the UK for work, study and family reasons.",
-    "url": "https://www.gov.uk/government/statistics/monthly-entry-clearance-visa-applications-july-2026",
-    "source": "govuk",
-    "sourceName": "GOV.UK",
-    "publishedAt": "2026-08-13T08:30:00Z",
     "kind": "official"
   },
   {
