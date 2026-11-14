@@ -1,9 +1,9 @@
 {
-  "lastSyncAt": "2026-11-13T13:18:49.348Z",
-  "lastNewsSyncAt": "2026-11-13T13:18:49.348Z",
+  "lastSyncAt": "2026-11-14T12:23:31.633Z",
+  "lastNewsSyncAt": "2026-11-14T12:23:31.633Z",
   "lastSyncOk": true,
   "lastError": null,
-  "durationMs": 13054,
+  "durationMs": 9354,
   "sources": {
     "govuk-register": {
       "ok": true,
@@ -22,27 +22,19 @@
       "count": 0,
       "error": "403 Forbidden for https://www.arbeitnow.co.uk/api/job-board-api"
     },
-    "remotive": {
-      "ok": true,
-      "count": 0
-    },
     "themuse": {
       "ok": false,
       "count": 0,
       "error": "403 Forbidden for https://www.themuse.com/api/public/jobs?page=0&location=London%2C%20United%20Kingdom&descending=true"
     },
-    "himalayas": {
+    "remotive": {
       "ok": true,
-      "count": 5
+      "count": 0
     },
     "landingjobs": {
       "ok": false,
       "count": 0,
       "error": "403 Forbidden for https://landing.jobs/api/v1/jobs?limit=150"
-    },
-    "jobicy": {
-      "ok": true,
-      "count": 100
     },
     "workingnomads": {
       "ok": true,
@@ -50,29 +42,37 @@
     },
     "remoteok": {
       "ok": true,
-      "count": 3
+      "count": 4
+    },
+    "jobicy": {
+      "ok": true,
+      "count": 100
+    },
+    "himalayas": {
+      "ok": true,
+      "count": 4
     },
     "visa-news": {
       "ok": true,
-      "count": 33
-    },
-    "ats-boards": {
-      "ok": true,
-      "count": 742
+      "count": 34
     },
     "weworkremotely": {
       "ok": true,
       "count": 120
     },
+    "ats-boards": {
+      "ok": true,
+      "count": 745
+    },
     "teaching-vacancies": {
       "ok": true,
-      "count": 577
+      "count": 608
     }
   },
   "sponsorCount": 121982,
-  "jobCount": 753,
-  "confirmedCount": 3,
-  "newsCount": 33,
+  "jobCount": 770,
+  "confirmedCount": 4,
+  "newsCount": 34,
   "registerUpdatedAt": "2026-11-12T11:45:34+00:00",
   "registerFilename": "SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-12.csv"
 }
