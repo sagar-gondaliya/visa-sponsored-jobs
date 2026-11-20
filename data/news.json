@@ -1,12 +1,22 @@
 [
   {
-    "id": "bbc-2026-11-19-eu-uk-talks-going-down-to-the-wire-says-no-10",
-    "title": "EU-UK talks going down to the wire, says No 10",
-    "summary": "The EU and UK are expected to reach new deals on food trade and visas for young people at a summit on Friday.",
+    "id": "bbc-2026-11-20-what-the-brussels-summit-could-mean-for-the-uk-eu-brexit-deal",
+    "title": "What the Brussels summit could mean for the UK-EU Brexit deal",
+    "summary": "BBC political editor Chris Mason looks at the potential agreements between the UK and EU that could be reached on food, energy and youth mobility.",
+    "url": "https://www.bbc.co.uk/news/videos/c6lymr5x4ye5o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "sourceName": "BBC News",
+    "publishedAt": "2026-11-20T08:07:06.000Z",
+    "kind": "news"
+  },
+  {
+    "id": "bbc-2026-11-20-uk-and-eu-to-agree-youth-mobility-scheme-bbc-understands",
+    "title": "UK and EU to agree youth mobility scheme, BBC understands",
+    "summary": "The scheme is expected to be approved at Friday's UK-EU summit, with new deals on food trade and carbon emissions also on the table.",
     "url": "https://www.bbc.co.uk/news/articles/c623j4kpg94go?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "sourceName": "BBC News",
-    "publishedAt": "2026-11-19T14:17:32.000Z",
+    "publishedAt": "2026-11-20T07:14:46.000Z",
     "kind": "news"
   },
   {
@@ -28,26 +38,6 @@
     "sourceName": "GOV.UK",
     "publishedAt": "2026-11-12T09:30:11Z",
     "kind": "official"
-  },
-  {
-    "id": "guardian-2026-11-11-asylum-law-changes-are-causing-refugee-families-like-mine-te",
-    "title": "Asylum law changes are causing refugee families like mine terrible worry | Letter",
-    "summary": "A reader highlights how the government’s immigration changes are affecting those who have been granted asylum and wish to apply for indefinite leave to remain I am writing as a refugee who has lived in the UK since 2007. I claimed asylum in 2007, and my appeal was allowed by the…",
-    "url": "https://www.theguardian.com/uk-news/2026/nov/11/asylum-law-changes-are-causing-refugee-families-like-mine-terrible-worry",
-    "source": "guardian",
-    "sourceName": "The Guardian",
-    "publishedAt": "2026-11-11T17:26:11.000Z",
-    "kind": "news"
-  },
-  {
-    "id": "guardian-2026-11-08-windrush-accusations-over-sharp-rise-in-turkish-nationals-fa",
-    "title": "‘Windrush’ accusations over sharp rise in Turkish nationals facing removal from UK",
-    "summary": "David Lammy among those raising concerns after errors found in rejected applications for indefinite leave to remain Concerns have been raised over the sudden rise in number of Turkish nationals facing removal from the UK as a result of mistakes, prompting accusations that the…",
-    "url": "https://www.theguardian.com/politics/2026/nov/08/turkish-nationals-uk-indefinite-leave-to-remain-home-office-windrush",
-    "source": "guardian",
-    "sourceName": "The Guardian",
-    "publishedAt": "2026-11-08T07:00:33.000Z",
-    "kind": "news"
   },
   {
     "id": "govuk-2026-11-06-student-sponsor-guidance",
