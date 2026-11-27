@@ -1,9 +1,9 @@
 {
-  "lastSyncAt": "2026-11-26T15:34:02.519Z",
-  "lastNewsSyncAt": "2026-11-26T15:34:02.519Z",
+  "lastSyncAt": "2026-11-27T15:25:54.268Z",
+  "lastNewsSyncAt": "2026-11-27T15:25:54.268Z",
   "lastSyncOk": true,
   "lastError": null,
-  "durationMs": 9854,
+  "durationMs": 10249,
   "sources": {
     "govuk-register": {
       "ok": true,
@@ -31,48 +31,48 @@
       "count": 0,
       "error": "403 Forbidden for https://www.themuse.com/api/public/jobs?page=0&location=London%2C%20United%20Kingdom&descending=true"
     },
-    "workingnomads": {
-      "ok": true,
-      "count": 4
-    },
-    "jobicy": {
-      "ok": true,
-      "count": 100
-    },
-    "himalayas": {
-      "ok": true,
-      "count": 7
-    },
     "landingjobs": {
       "ok": false,
       "count": 0,
       "error": "403 Forbidden for https://landing.jobs/api/v1/jobs?limit=150"
     },
-    "visa-news": {
+    "himalayas": {
       "ok": true,
-      "count": 32
+      "count": 5
+    },
+    "workingnomads": {
+      "ok": true,
+      "count": 3
+    },
+    "jobicy": {
+      "ok": true,
+      "count": 100
     },
     "remoteok": {
       "ok": true,
-      "count": 6
+      "count": 10
+    },
+    "visa-news": {
+      "ok": true,
+      "count": 29
     },
     "weworkremotely": {
       "ok": true,
-      "count": 123
+      "count": 120
     },
     "ats-boards": {
       "ok": true,
-      "count": 748
+      "count": 749
     },
     "teaching-vacancies": {
       "ok": true,
-      "count": 650
+      "count": 632
     }
   },
-  "sponsorCount": 121871,
-  "jobCount": 752,
-  "confirmedCount": 3,
-  "newsCount": 32,
-  "registerUpdatedAt": "2026-11-26T12:55:47+00:00",
-  "registerFilename": "SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-26.csv"
+  "sponsorCount": 121667,
+  "jobCount": 771,
+  "confirmedCount": 2,
+  "newsCount": 29,
+  "registerUpdatedAt": "2026-11-27T10:34:57+00:00",
+  "registerFilename": "SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-27.csv"
 }
