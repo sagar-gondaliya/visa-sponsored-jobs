@@ -1,9 +1,9 @@
 {
-  "lastSyncAt": "2026-11-27T15:25:54.268Z",
-  "lastNewsSyncAt": "2026-11-27T15:25:54.268Z",
+  "lastSyncAt": "2026-11-28T14:25:26.773Z",
+  "lastNewsSyncAt": "2026-11-28T14:25:26.773Z",
   "lastSyncOk": true,
   "lastError": null,
-  "durationMs": 10249,
+  "durationMs": 13837,
   "sources": {
     "govuk-register": {
       "ok": true,
@@ -20,33 +20,33 @@
     "arbeitnow": {
       "ok": false,
       "count": 0,
-      "error": "403 Forbidden for https://www.arbeitnow.co.uk/api/job-board-api"
-    },
-    "remotive": {
-      "ok": true,
-      "count": 0
+      "error": "403 Forbidden for https://www.arbeitnow.co.uk/api/job-board-api?visa_sponsorship=true"
     },
     "themuse": {
       "ok": false,
       "count": 0,
       "error": "403 Forbidden for https://www.themuse.com/api/public/jobs?page=0&location=London%2C%20United%20Kingdom&descending=true"
     },
+    "remotive": {
+      "ok": true,
+      "count": 0
+    },
+    "himalayas": {
+      "ok": true,
+      "count": 3
+    },
     "landingjobs": {
       "ok": false,
       "count": 0,
       "error": "403 Forbidden for https://landing.jobs/api/v1/jobs?limit=150"
     },
-    "himalayas": {
-      "ok": true,
-      "count": 5
-    },
-    "workingnomads": {
-      "ok": true,
-      "count": 3
-    },
     "jobicy": {
       "ok": true,
       "count": 100
+    },
+    "workingnomads": {
+      "ok": true,
+      "count": 4
     },
     "remoteok": {
       "ok": true,
@@ -54,25 +54,25 @@
     },
     "visa-news": {
       "ok": true,
-      "count": 29
+      "count": 30
     },
     "weworkremotely": {
       "ok": true,
-      "count": 120
+      "count": 121
     },
     "ats-boards": {
       "ok": true,
-      "count": 749
+      "count": 748
     },
     "teaching-vacancies": {
       "ok": true,
-      "count": 632
+      "count": 671
     }
   },
   "sponsorCount": 121667,
-  "jobCount": 771,
-  "confirmedCount": 2,
-  "newsCount": 29,
+  "jobCount": 770,
+  "confirmedCount": 4,
+  "newsCount": 30,
   "registerUpdatedAt": "2026-11-27T10:34:57+00:00",
   "registerFilename": "SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-11-27.csv"
 }
